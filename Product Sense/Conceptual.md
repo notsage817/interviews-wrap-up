@@ -10,9 +10,22 @@ by synthesizing the main purpose and how it helps the company business goals
 with different models
 ### Diagnosing a metric change
 1. Scope out the metric change
-   1.
-3. Hypothesis comtributing factors
-4. Validate each factor
-5. Classify each factor
+   + Clarify the metrics defination nuance
+   + Clarify the importance of the metrics
+   + Determine the timeframe of the metrics change
+   + The magnitude of the change
+   
+2. Hypothesis contributing factors
+   + Accidental change
+   + Natrual change
+   + Internal change
+   + External change
+3. Validate each factor
+Slice and dice data into different segments, hunting for insights that validate or disprove the hypothesis.
+4. Classify each factor
+  + Root Cause
+  + Contributing factor
+  + Correlated result
+  + Unrelated factor
 ### Brainstorming product features
 ### Designing A/B tests
