@@ -21,6 +21,7 @@ with different models
    + Internal change
    + External change
 3. Validate each factor
+
 Slice and dice data into different segments, hunting for insights that validate or disprove the hypothesis.
 4. Classify each factor
   + Root Cause
