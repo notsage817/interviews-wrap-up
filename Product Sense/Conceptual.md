@@ -1,13 +1,18 @@
 ### Defining a product metrics
 1. Clarify the product & its purpose
-+ Who the feature is for?
-+ What is the user flow of the product
-3. Explain the product & business goals
-4. Define success metrics
+**Define the business purpose behind the product**
+by asking the interviewer
+2. Explain the product & business goals
+**Tying back with the business goals of the company**
+by synthesizing the main purpose and how it helps the company business goals
+3. Define success metrics
+**Determine and measure the main actions a user needs**
+with different models
 ### Diagnosing a metric change
 1. Scope out the metric change
-2. Hypothesis comtributing factors
-3. Validate each factor
-4. Classify each factor
+   1.
+3. Hypothesis comtributing factors
+4. Validate each factor
+5. Classify each factor
 ### Brainstorming product features
 ### Designing A/B tests
