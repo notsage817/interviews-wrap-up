@@ -21,3 +21,11 @@ from prime_2018
 where payment_date >= prime_start_date and payment_date <= prime_end_date
 group by prime_status
 ```
+```
+SELECT p.prime_status, SUM(IFNULL(t.amount, 0)) AS total_spend
+FROM Transaction t
+LEFT JOIN Prime p
+ON t.customer_id = p.customer_id
+WHERE p.prime_status IS NOT NULL AND year(t.payment_date) = 2018 AND t.payment_date BETWEEN p.prime_start_date AND p.prime_end_date
+GROUP BY p.prime_status
+```
